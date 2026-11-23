@@ -1,0 +1,440 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="volna-title">
+  <title id="volna-title">VOLNA</title>
+  <style>
+    .volna-column circle {
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .volna-column circle {
+        animation: volna-impulse 360ms ease-in-out var(--volna-delay) both;
+      }
+    }
+    @keyframes volna-impulse {
+      0%, 100% { transform: scale(1); }
+      46% { transform: scale(1.25); }
+    }
+  </style>
+  <g class="volna-column" style="--volna-delay:0ms">
+    <circle cx="125.70" cy="141.45" r="1.45" fill="#606C7E"/>
+    <circle cx="121.00" cy="150.80" r="2.32" fill="#FFD43B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="125.70" cy="160.15" r="2.93" fill="#FFD43B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="121.00" cy="169.50" r="2.67" fill="#FFD43B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="125.70" cy="178.85" r="1.82" fill="#A2ADBD"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:16ms">
+    <circle cx="135.10" cy="141.45" r="1.73" fill="#A2ADBD"/>
+    <circle cx="130.40" cy="150.80" r="2.58" fill="#FFD23B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="135.10" cy="160.15" r="3.03" fill="#FFD23B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="130.40" cy="169.50" r="2.68" fill="#FFD23B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="135.10" cy="178.85" r="1.85" fill="#A2ADBD"/>
+    <circle cx="130.40" cy="188.20" r="1.13" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:33ms">
+    <circle cx="139.80" cy="132.10" r="1.43" fill="#606C7E"/>
+    <circle cx="144.50" cy="141.45" r="2.22" fill="#A2ADBD"/>
+    <circle cx="139.80" cy="150.80" r="2.94" fill="#FFD03A" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="144.50" cy="160.15" r="3.07" fill="#FFD03A" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="139.80" cy="169.50" r="2.51" fill="#FFD03A" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="144.50" cy="178.85" r="1.68" fill="#A2ADBD"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:49ms">
+    <circle cx="153.90" cy="122.75" r="1.34" fill="#606C7E"/>
+    <circle cx="149.20" cy="132.10" r="2.06" fill="#A2ADBD"/>
+    <circle cx="153.90" cy="141.45" r="2.83" fill="#FFCF3A" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="149.20" cy="150.80" r="3.20" fill="#FFCF3A" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="153.90" cy="160.15" r="2.90" fill="#FFCF3A" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="149.20" cy="169.50" r="2.15" fill="#A2ADBD"/>
+    <circle cx="153.90" cy="178.85" r="1.41" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:66ms">
+    <circle cx="158.60" cy="113.40" r="1.33" fill="#606C7E"/>
+    <circle cx="163.30" cy="122.75" r="2.00" fill="#A2ADBD"/>
+    <circle cx="158.60" cy="132.10" r="2.77" fill="#FFCD39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="163.30" cy="141.45" r="3.25" fill="#FFCD39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="158.60" cy="150.80" r="3.14" fill="#FFCD39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="163.30" cy="160.15" r="2.52" fill="#A2ADBD"/>
+    <circle cx="158.60" cy="169.50" r="1.74" fill="#A2ADBD"/>
+    <circle cx="163.30" cy="178.85" r="1.16" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:82ms">
+    <circle cx="172.70" cy="104.05" r="1.31" fill="#606C7E"/>
+    <circle cx="168.00" cy="113.40" r="1.94" fill="#A2ADBD"/>
+    <circle cx="172.70" cy="122.75" r="2.69" fill="#FFCB39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="168.00" cy="132.10" r="3.26" fill="#FFCB39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="172.70" cy="141.45" r="3.33" fill="#FFCB39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="168.00" cy="150.80" r="2.86" fill="#FFCB39" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="172.70" cy="160.15" r="2.11" fill="#A2ADBD"/>
+    <circle cx="168.00" cy="169.50" r="1.44" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:99ms">
+    <circle cx="177.40" cy="94.70" r="1.22" fill="#606C7E"/>
+    <circle cx="182.10" cy="104.05" r="1.75" fill="#606C7E"/>
+    <circle cx="177.40" cy="113.40" r="2.47" fill="#A2ADBD"/>
+    <circle cx="182.10" cy="122.75" r="3.14" fill="#FFC938" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="177.40" cy="132.10" r="3.46" fill="#FFC938" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="182.10" cy="141.45" r="3.24" fill="#FFC938" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="177.40" cy="150.80" r="2.62" fill="#A2ADBD"/>
+    <circle cx="182.10" cy="160.15" r="1.88" fill="#A2ADBD"/>
+    <circle cx="177.40" cy="169.50" r="1.31" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:115ms">
+    <circle cx="186.80" cy="94.70" r="1.41" fill="#606C7E"/>
+    <circle cx="191.50" cy="104.05" r="2.01" fill="#A2ADBD"/>
+    <circle cx="186.80" cy="113.40" r="2.73" fill="#A2ADBD"/>
+    <circle cx="191.50" cy="122.75" r="3.33" fill="#FFC838" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="186.80" cy="132.10" r="3.54" fill="#FFC838" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="191.50" cy="141.45" r="3.25" fill="#FFC838" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="186.80" cy="150.80" r="2.62" fill="#A2ADBD"/>
+    <circle cx="191.50" cy="160.15" r="1.90" fill="#A2ADBD"/>
+    <circle cx="186.80" cy="169.50" r="1.34" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:132ms">
+    <circle cx="196.20" cy="94.70" r="1.40" fill="#606C7E"/>
+    <circle cx="200.90" cy="104.05" r="1.97" fill="#A2ADBD"/>
+    <circle cx="196.20" cy="113.40" r="2.66" fill="#A2ADBD"/>
+    <circle cx="200.90" cy="122.75" r="3.30" fill="#FFC638" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="196.20" cy="132.10" r="3.61" fill="#FFC638" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="200.90" cy="141.45" r="3.46" fill="#FFC638" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="196.20" cy="150.80" r="2.92" fill="#FFC638" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="200.90" cy="160.15" r="2.21" fill="#A2ADBD"/>
+    <circle cx="196.20" cy="169.50" r="1.58" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:148ms">
+    <circle cx="210.30" cy="104.05" r="1.65" fill="#606C7E"/>
+    <circle cx="205.60" cy="113.40" r="2.27" fill="#A2ADBD"/>
+    <circle cx="210.30" cy="122.75" r="2.96" fill="#FFC437" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="205.60" cy="132.10" r="3.51" fill="#FFC437" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="210.30" cy="141.45" r="3.69" fill="#FFC437" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="205.60" cy="150.80" r="3.43" fill="#FFC437" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="210.30" cy="160.15" r="2.84" fill="#A2ADBD"/>
+    <circle cx="205.60" cy="169.50" r="2.15" fill="#A2ADBD"/>
+    <circle cx="210.30" cy="178.85" r="1.55" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:165ms">
+    <circle cx="215.00" cy="113.40" r="1.68" fill="#606C7E"/>
+    <circle cx="219.70" cy="122.75" r="2.29" fill="#A2ADBD"/>
+    <circle cx="215.00" cy="132.10" r="2.97" fill="#FFC237" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="219.70" cy="141.45" r="3.53" fill="#FFC237" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="215.00" cy="150.80" r="3.76" fill="#FFC237" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="219.70" cy="160.15" r="3.56" fill="#FFC237" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="215.00" cy="169.50" r="3.03" fill="#FFC237" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="219.70" cy="178.85" r="2.35" fill="#A2ADBD"/>
+    <circle cx="215.00" cy="188.20" r="1.73" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:181ms">
+    <circle cx="229.10" cy="122.75" r="1.57" fill="#606C7E"/>
+    <circle cx="224.40" cy="132.10" r="2.13" fill="#A2ADBD"/>
+    <circle cx="229.10" cy="141.45" r="2.80" fill="#A2ADBD"/>
+    <circle cx="224.40" cy="150.80" r="3.41" fill="#FFC036" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="229.10" cy="160.15" r="3.78" fill="#FFC036" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="224.40" cy="169.50" r="3.76" fill="#FFC036" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="229.10" cy="178.85" r="3.36" fill="#FFC036" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="224.40" cy="188.20" r="2.73" fill="#A2ADBD"/>
+    <circle cx="229.10" cy="197.55" r="2.06" fill="#A2ADBD"/>
+    <circle cx="224.40" cy="206.90" r="1.52" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:198ms">
+    <circle cx="233.80" cy="132.10" r="1.44" fill="#606C7E"/>
+    <circle cx="238.50" cy="141.45" r="1.94" fill="#606C7E"/>
+    <circle cx="233.80" cy="150.80" r="2.57" fill="#A2ADBD"/>
+    <circle cx="238.50" cy="160.15" r="3.22" fill="#FFBF36" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="233.80" cy="169.50" r="3.71" fill="#FFBF36" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="238.50" cy="178.85" r="3.87" fill="#FFBF36" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="233.80" cy="188.20" r="3.65" fill="#FFBF36" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="238.50" cy="197.55" r="3.12" fill="#FFBF36" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="233.80" cy="206.90" r="2.46" fill="#A2ADBD"/>
+    <circle cx="238.50" cy="216.25" r="1.84" fill="#606C7E"/>
+    <circle cx="233.80" cy="225.60" r="1.38" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:214ms">
+    <circle cx="247.90" cy="141.45" r="1.39" fill="#606C7E"/>
+    <circle cx="243.20" cy="150.80" r="1.84" fill="#606C7E"/>
+    <circle cx="247.90" cy="160.15" r="2.45" fill="#A2ADBD"/>
+    <circle cx="243.20" cy="169.50" r="3.10" fill="#FFBD35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="247.90" cy="178.85" r="3.65" fill="#FFBD35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="243.20" cy="188.20" r="3.91" fill="#FFBD35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="247.90" cy="197.55" r="3.81" fill="#FFBD35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="243.20" cy="206.90" r="3.36" fill="#FFBD35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="247.90" cy="216.25" r="2.73" fill="#A2ADBD"/>
+    <circle cx="243.20" cy="225.60" r="2.09" fill="#A2ADBD"/>
+    <circle cx="247.90" cy="234.95" r="1.56" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:231ms">
+    <circle cx="252.60" cy="150.80" r="1.47" fill="#606C7E"/>
+    <circle cx="257.30" cy="160.15" r="1.95" fill="#606C7E"/>
+    <circle cx="252.60" cy="169.50" r="2.57" fill="#A2ADBD"/>
+    <circle cx="257.30" cy="178.85" r="3.22" fill="#FFBB35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="252.60" cy="188.20" r="3.73" fill="#FFBB35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="257.30" cy="197.55" r="3.96" fill="#FFBB35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="252.60" cy="206.90" r="3.82" fill="#FFBB35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="257.30" cy="216.25" r="3.37" fill="#FFBB35" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="252.60" cy="225.60" r="2.74" fill="#A2ADBD"/>
+    <circle cx="257.30" cy="234.95" r="2.10" fill="#A2ADBD"/>
+    <circle cx="252.60" cy="244.30" r="1.58" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:247ms">
+    <circle cx="262.00" cy="150.80" r="1.38" fill="#606C7E"/>
+    <circle cx="266.70" cy="160.15" r="1.81" fill="#606C7E"/>
+    <circle cx="262.00" cy="169.50" r="2.39" fill="#A2ADBD"/>
+    <circle cx="266.70" cy="178.85" r="3.04" fill="#A2ADBD"/>
+    <circle cx="262.00" cy="188.20" r="3.61" fill="#FFB935" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="266.70" cy="197.55" r="3.95" fill="#FFB935" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="262.00" cy="206.90" r="3.95" fill="#FFB935" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="266.70" cy="216.25" r="3.60" fill="#FFB935" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="262.00" cy="225.60" r="3.02" fill="#A2ADBD"/>
+    <circle cx="266.70" cy="234.95" r="2.38" fill="#A2ADBD"/>
+    <circle cx="262.00" cy="244.30" r="1.80" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:264ms">
+    <circle cx="271.40" cy="150.80" r="1.52" fill="#606C7E"/>
+    <circle cx="276.10" cy="160.15" r="2.00" fill="#606C7E"/>
+    <circle cx="271.40" cy="169.50" r="2.61" fill="#A2ADBD"/>
+    <circle cx="276.10" cy="178.85" r="3.25" fill="#FFB734" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="271.40" cy="188.20" r="3.77" fill="#FFB734" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="276.10" cy="197.55" r="4.02" fill="#FFB734" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="271.40" cy="206.90" r="3.91" fill="#FFB734" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="276.10" cy="216.25" r="3.49" fill="#FFB734" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="271.40" cy="225.60" r="2.88" fill="#A2ADBD"/>
+    <circle cx="276.10" cy="234.95" r="2.25" fill="#A2ADBD"/>
+    <circle cx="271.40" cy="244.30" r="1.70" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:280ms">
+    <circle cx="285.50" cy="141.45" r="1.50" fill="#606C7E"/>
+    <circle cx="280.80" cy="150.80" r="1.97" fill="#606C7E"/>
+    <circle cx="285.50" cy="160.15" r="2.57" fill="#A2ADBD"/>
+    <circle cx="280.80" cy="169.50" r="3.21" fill="#FFB634" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="285.50" cy="178.85" r="3.74" fill="#FFB634" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="280.80" cy="188.20" r="4.02" fill="#FFB634" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="285.50" cy="197.55" r="3.96" fill="#FFB634" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="280.80" cy="206.90" r="3.57" fill="#FFB634" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="285.50" cy="216.25" r="2.98" fill="#A2ADBD"/>
+    <circle cx="280.80" cy="225.60" r="2.34" fill="#A2ADBD"/>
+    <circle cx="285.50" cy="234.95" r="1.78" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:297ms">
+    <circle cx="290.20" cy="132.10" r="1.68" fill="#606C7E"/>
+    <circle cx="294.90" cy="141.45" r="2.21" fill="#A2ADBD"/>
+    <circle cx="290.20" cy="150.80" r="2.84" fill="#A2ADBD"/>
+    <circle cx="294.90" cy="160.15" r="3.45" fill="#FFB433" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="290.20" cy="169.50" r="3.90" fill="#FFB433" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="294.90" cy="178.85" r="4.05" fill="#FFB433" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="290.20" cy="188.20" r="3.85" fill="#FFB433" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="294.90" cy="197.55" r="3.36" fill="#FFB433" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="290.20" cy="206.90" r="2.73" fill="#A2ADBD"/>
+    <circle cx="294.90" cy="216.25" r="2.11" fill="#606C7E"/>
+    <circle cx="290.20" cy="225.60" r="1.61" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:313ms">
+    <circle cx="299.60" cy="113.40" r="1.55" fill="#606C7E"/>
+    <circle cx="304.30" cy="122.75" r="2.03" fill="#606C7E"/>
+    <circle cx="299.60" cy="132.10" r="2.64" fill="#A2ADBD"/>
+    <circle cx="304.30" cy="141.45" r="3.28" fill="#FFB233" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="299.60" cy="150.80" r="3.79" fill="#FFB233" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="304.30" cy="160.15" r="4.04" fill="#FFB233" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="299.60" cy="169.50" r="3.94" fill="#FFB233" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="304.30" cy="178.85" r="3.53" fill="#FFB233" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="299.60" cy="188.20" r="2.93" fill="#A2ADBD"/>
+    <circle cx="304.30" cy="197.55" r="2.30" fill="#A2ADBD"/>
+    <circle cx="299.60" cy="206.90" r="1.75" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:330ms">
+    <circle cx="309.00" cy="94.70" r="1.44" fill="#606C7E"/>
+    <circle cx="313.70" cy="104.05" r="1.88" fill="#606C7E"/>
+    <circle cx="309.00" cy="113.40" r="2.46" fill="#A2ADBD"/>
+    <circle cx="313.70" cy="122.75" r="3.11" fill="#A2ADBD"/>
+    <circle cx="309.00" cy="132.10" r="3.67" fill="#FFB032" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="313.70" cy="141.45" r="4.00" fill="#FFB032" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="309.00" cy="150.80" r="3.99" fill="#FFB032" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="313.70" cy="160.15" r="3.65" fill="#FFB032" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="309.00" cy="169.50" r="3.08" fill="#A2ADBD"/>
+    <circle cx="313.70" cy="178.85" r="2.44" fill="#A2ADBD"/>
+    <circle cx="309.00" cy="188.20" r="1.86" fill="#606C7E"/>
+    <circle cx="313.70" cy="197.55" r="1.42" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:346ms">
+    <circle cx="323.10" cy="85.35" r="1.63" fill="#606C7E"/>
+    <circle cx="318.40" cy="94.70" r="2.15" fill="#A2ADBD"/>
+    <circle cx="323.10" cy="104.05" r="2.78" fill="#A2ADBD"/>
+    <circle cx="318.40" cy="113.40" r="3.41" fill="#FFAF32" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="323.10" cy="122.75" r="3.87" fill="#FFAF32" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="318.40" cy="132.10" r="4.02" fill="#FFAF32" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="323.10" cy="141.45" r="3.83" fill="#FFAF32" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="318.40" cy="150.80" r="3.34" fill="#FFAF32" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="323.10" cy="160.15" r="2.71" fill="#A2ADBD"/>
+    <circle cx="318.40" cy="169.50" r="2.09" fill="#606C7E"/>
+    <circle cx="323.10" cy="178.85" r="1.58" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:363ms">
+    <circle cx="327.80" cy="76.00" r="1.65" fill="#606C7E"/>
+    <circle cx="332.50" cy="85.35" r="2.18" fill="#A2ADBD"/>
+    <circle cx="327.80" cy="94.70" r="2.82" fill="#A2ADBD"/>
+    <circle cx="332.50" cy="104.05" r="3.44" fill="#FFAD31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="327.80" cy="113.40" r="3.87" fill="#FFAD31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="332.50" cy="122.75" r="3.99" fill="#FFAD31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="327.80" cy="132.10" r="3.76" fill="#FFAD31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="332.50" cy="141.45" r="3.24" fill="#FFAD31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="327.80" cy="150.80" r="2.60" fill="#A2ADBD"/>
+    <circle cx="332.50" cy="160.15" r="1.98" fill="#606C7E"/>
+    <circle cx="327.80" cy="169.50" r="1.50" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:379ms">
+    <circle cx="337.20" cy="76.00" r="1.87" fill="#606C7E"/>
+    <circle cx="341.90" cy="85.35" r="2.47" fill="#A2ADBD"/>
+    <circle cx="337.20" cy="94.70" r="3.12" fill="#FFAB31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="341.90" cy="104.05" r="3.67" fill="#FFAB31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="337.20" cy="113.40" r="3.95" fill="#FFAB31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="341.90" cy="122.75" r="3.87" fill="#FFAB31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="337.20" cy="132.10" r="3.46" fill="#FFAB31" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="341.90" cy="141.45" r="2.84" fill="#A2ADBD"/>
+    <circle cx="337.20" cy="150.80" r="2.20" fill="#A2ADBD"/>
+    <circle cx="341.90" cy="160.15" r="1.66" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:396ms">
+    <circle cx="346.60" cy="76.00" r="1.76" fill="#606C7E"/>
+    <circle cx="351.30" cy="85.35" r="2.35" fill="#A2ADBD"/>
+    <circle cx="346.60" cy="94.70" r="3.00" fill="#A2ADBD"/>
+    <circle cx="351.30" cy="104.05" r="3.58" fill="#FFA931" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="346.60" cy="113.40" r="3.90" fill="#FFA931" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="351.30" cy="122.75" r="3.85" fill="#FFA931" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="346.60" cy="132.10" r="3.45" fill="#FFA931" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="351.30" cy="141.45" r="2.84" fill="#A2ADBD"/>
+    <circle cx="346.60" cy="150.80" r="2.18" fill="#A2ADBD"/>
+    <circle cx="351.30" cy="160.15" r="1.64" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:412ms">
+    <circle cx="356.00" cy="76.00" r="1.40" fill="#606C7E"/>
+    <circle cx="360.70" cy="85.35" r="1.87" fill="#606C7E"/>
+    <circle cx="356.00" cy="94.70" r="2.49" fill="#A2ADBD"/>
+    <circle cx="360.70" cy="104.05" r="3.15" fill="#FFA730" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="356.00" cy="113.40" r="3.67" fill="#FFA730" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="360.70" cy="122.75" r="3.87" fill="#FFA730" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="356.00" cy="132.10" r="3.69" fill="#FFA730" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="360.70" cy="141.45" r="3.19" fill="#FFA730" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="356.00" cy="150.80" r="2.53" fill="#A2ADBD"/>
+    <circle cx="360.70" cy="160.15" r="1.90" fill="#606C7E"/>
+    <circle cx="356.00" cy="169.50" r="1.42" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:429ms">
+    <circle cx="365.40" cy="94.70" r="1.74" fill="#606C7E"/>
+    <circle cx="370.10" cy="104.05" r="2.34" fill="#A2ADBD"/>
+    <circle cx="365.40" cy="113.40" r="3.01" fill="#FFA630" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="370.10" cy="122.75" r="3.57" fill="#FFA630" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="365.40" cy="132.10" r="3.82" fill="#FFA630" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="370.10" cy="141.45" r="3.66" fill="#FFA630" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="365.40" cy="150.80" r="3.17" fill="#FFA630" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="370.10" cy="160.15" r="2.50" fill="#A2ADBD"/>
+    <circle cx="365.40" cy="169.50" r="1.87" fill="#606C7E"/>
+    <circle cx="370.10" cy="178.85" r="1.38" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:445ms">
+    <circle cx="379.50" cy="104.05" r="1.48" fill="#606C7E"/>
+    <circle cx="374.80" cy="113.40" r="2.03" fill="#A2ADBD"/>
+    <circle cx="379.50" cy="122.75" r="2.70" fill="#A2ADBD"/>
+    <circle cx="374.80" cy="132.10" r="3.33" fill="#FFA42F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="379.50" cy="141.45" r="3.71" fill="#FFA42F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="374.80" cy="150.80" r="3.69" fill="#FFA42F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="379.50" cy="160.15" r="3.28" fill="#FFA42F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="374.80" cy="169.50" r="2.63" fill="#A2ADBD"/>
+    <circle cx="379.50" cy="178.85" r="1.96" fill="#606C7E"/>
+    <circle cx="374.80" cy="188.20" r="1.44" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:462ms">
+    <circle cx="388.90" cy="122.75" r="1.71" fill="#606C7E"/>
+    <circle cx="384.20" cy="132.10" r="2.35" fill="#A2ADBD"/>
+    <circle cx="388.90" cy="141.45" r="3.04" fill="#FFA22F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="384.20" cy="150.80" r="3.55" fill="#FFA22F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="388.90" cy="160.15" r="3.68" fill="#FFA22F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="384.20" cy="169.50" r="3.37" fill="#FFA22F" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="388.90" cy="178.85" r="2.76" fill="#A2ADBD"/>
+    <circle cx="384.20" cy="188.20" r="2.07" fill="#A2ADBD"/>
+    <circle cx="388.90" cy="197.55" r="1.50" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:478ms">
+    <circle cx="393.60" cy="132.10" r="1.52" fill="#606C7E"/>
+    <circle cx="398.30" cy="141.45" r="2.13" fill="#A2ADBD"/>
+    <circle cx="393.60" cy="150.80" r="2.83" fill="#FFA02E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="398.30" cy="160.15" r="3.41" fill="#FFA02E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="393.60" cy="169.50" r="3.62" fill="#FFA02E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="398.30" cy="178.85" r="3.36" fill="#FFA02E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="393.60" cy="188.20" r="2.75" fill="#A2ADBD"/>
+    <circle cx="398.30" cy="197.55" r="2.05" fill="#A2ADBD"/>
+    <circle cx="393.60" cy="206.90" r="1.46" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:495ms">
+    <circle cx="407.70" cy="141.45" r="1.50" fill="#606C7E"/>
+    <circle cx="403.00" cy="150.80" r="2.13" fill="#A2ADBD"/>
+    <circle cx="407.70" cy="160.15" r="2.85" fill="#FF9E2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="403.00" cy="169.50" r="3.40" fill="#FF9E2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="407.70" cy="178.85" r="3.52" fill="#FF9E2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="403.00" cy="188.20" r="3.16" fill="#FF9E2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="407.70" cy="197.55" r="2.49" fill="#A2ADBD"/>
+    <circle cx="403.00" cy="206.90" r="1.79" fill="#606C7E"/>
+    <circle cx="407.70" cy="216.25" r="1.26" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:511ms">
+    <circle cx="417.10" cy="141.45" r="1.20" fill="#606C7E"/>
+    <circle cx="412.40" cy="150.80" r="1.73" fill="#606C7E"/>
+    <circle cx="417.10" cy="160.15" r="2.44" fill="#A2ADBD"/>
+    <circle cx="412.40" cy="169.50" r="3.12" fill="#FF9D2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="417.10" cy="178.85" r="3.45" fill="#FF9D2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="412.40" cy="188.20" r="3.26" fill="#FF9D2E" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="417.10" cy="197.55" r="2.64" fill="#A2ADBD"/>
+    <circle cx="412.40" cy="206.90" r="1.91" fill="#A2ADBD"/>
+    <circle cx="417.10" cy="216.25" r="1.32" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:528ms">
+    <circle cx="421.80" cy="150.80" r="1.60" fill="#606C7E"/>
+    <circle cx="426.50" cy="160.15" r="2.32" fill="#A2ADBD"/>
+    <circle cx="421.80" cy="169.50" r="3.03" fill="#FF9B2D" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="426.50" cy="178.85" r="3.37" fill="#FF9B2D" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="421.80" cy="188.20" r="3.14" fill="#FF9B2D" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="426.50" cy="197.55" r="2.49" fill="#A2ADBD"/>
+    <circle cx="421.80" cy="206.90" r="1.74" fill="#606C7E"/>
+    <circle cx="426.50" cy="216.25" r="1.19" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:544ms">
+    <circle cx="435.90" cy="141.45" r="1.13" fill="#606C7E"/>
+    <circle cx="431.20" cy="150.80" r="1.69" fill="#606C7E"/>
+    <circle cx="435.90" cy="160.15" r="2.46" fill="#A2ADBD"/>
+    <circle cx="431.20" cy="169.50" r="3.11" fill="#FF992D" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="435.90" cy="178.85" r="3.27" fill="#FF992D" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="431.20" cy="188.20" r="2.82" fill="#FF992D" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="435.90" cy="197.55" r="2.06" fill="#A2ADBD"/>
+    <circle cx="431.20" cy="206.90" r="1.37" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:561ms">
+    <circle cx="445.30" cy="141.45" r="1.27" fill="#606C7E"/>
+    <circle cx="440.60" cy="150.80" r="1.96" fill="#A2ADBD"/>
+    <circle cx="445.30" cy="160.15" r="2.75" fill="#FF972C" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="440.60" cy="169.50" r="3.19" fill="#FF972C" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="445.30" cy="178.85" r="2.97" fill="#FF972C" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="440.60" cy="188.20" r="2.25" fill="#A2ADBD"/>
+    <circle cx="445.30" cy="197.55" r="1.49" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:577ms">
+    <circle cx="454.70" cy="141.45" r="1.51" fill="#606C7E"/>
+    <circle cx="450.00" cy="150.80" r="2.31" fill="#A2ADBD"/>
+    <circle cx="454.70" cy="160.15" r="2.99" fill="#FF962C" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="450.00" cy="169.50" r="3.04" fill="#FF962C" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="454.70" cy="178.85" r="2.42" fill="#A2ADBD"/>
+    <circle cx="450.00" cy="188.20" r="1.60" fill="#606C7E"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:594ms">
+    <circle cx="464.10" cy="141.45" r="1.75" fill="#A2ADBD"/>
+    <circle cx="459.40" cy="150.80" r="2.60" fill="#FF942B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="464.10" cy="160.15" r="3.03" fill="#FF942B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="459.40" cy="169.50" r="2.66" fill="#FF942B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="464.10" cy="178.85" r="1.82" fill="#A2ADBD"/>
+  </g>
+  <g class="volna-column" style="--volna-delay:610ms">
+    <circle cx="468.80" cy="132.10" r="1.13" fill="#606C7E"/>
+    <circle cx="473.50" cy="141.45" r="1.90" fill="#A2ADBD"/>
+    <circle cx="468.80" cy="150.80" r="2.73" fill="#FF922B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="473.50" cy="160.15" r="2.90" fill="#FF922B" stroke="#34303A" stroke-width="1.9" paint-order="stroke"/>
+    <circle cx="468.80" cy="169.50" r="2.25" fill="#A2ADBD"/>
+    <circle cx="473.50" cy="178.85" r="1.38" fill="#606C7E"/>
+  </g>
+  <path class="volna-lettering" d="M619.96 103.91 579.66 218.01H549.81L510 103.91H538.39L562.78 183.32Q564.74 189.76 565.14 194.7H565.63Q566.2 189.37 568.16 183L592.39 103.91ZM680.19 220Q655.07 220 639.24 204.05Q623.42 188.09 623.42 162.47Q623.42 135.42 639.49 118.71Q655.56 102 682.07 102Q707.11 102 722.57 117.99Q738.03 133.99 738.03 160.16Q738.03 187.06 722 203.53Q705.97 220 680.19 220ZM681.33 124.12Q667.47 124.12 659.31 134.27Q651.15 144.41 651.15 161.12Q651.15 178.07 659.31 187.93Q667.47 197.8 680.68 197.8Q694.3 197.8 702.3 188.21Q710.29 178.62 710.29 161.6Q710.29 143.85 702.54 133.99Q694.79 124.12 681.33 124.12ZM823.87 218.01H754.21V103.91H780.56V197.16H823.87ZM941.61 218.01H915.02L866.81 146.32Q862.57 140.03 860.94 136.85H860.61Q861.26 142.9 861.26 155.31V218.01H836.38V103.91H864.77L911.19 173.37Q914.37 178.07 917.06 182.68H917.39Q916.73 178.7 916.73 167.01V103.91H941.61ZM1068 218.01H1039.29L1030.97 192.63H989.36L981.12 218.01H952.57L995.15 103.91H1026.4ZM1024.93 172.9 1012.37 134.54Q1010.98 130.25 1010.41 124.28H1009.76Q1009.35 129.29 1007.72 134.23L994.99 172.9Z" fill="#E6ECF5"
+    stroke="#263140" stroke-width="5.6" stroke-linejoin="round" paint-order="stroke"/>
+</svg>
