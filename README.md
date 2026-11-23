@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/wordmark-animated.svg" alt="VOLNA" width="520">
+  <img src="docs/assets/wordmark-animated.gif" alt="VOLNA" width="520">
 </p>
 
 <p align="center"><b>Yandex Music downloader for Chrome and Edge. Быстро, без превью и лишних папок.</b></p>
