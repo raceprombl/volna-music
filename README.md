@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/wordmark.svg" alt="VOLNA" width="520">
+  <img src="docs/assets/wordmark.png" alt="VOLNA" width="520">
 </p>
 
 <p align="center"><b>Музыка с собой. Быстро, без обрезанных превью и лишних папок.</b></p>
