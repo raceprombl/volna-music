@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.tools/
+.playwright-cli/
+src/graphify-out/
+graphify-out/
+artifacts/yandex-page.html
+artifacts/yandex-font-styles.css
+artifacts/zip64-fixture.zip
+volna-*.zip
+*.log

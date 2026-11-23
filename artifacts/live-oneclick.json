@@ -1,0 +1,12 @@
+{
+  "result": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Script ran on page and returned:\n```json\n{\"created\":true,\"title\":\"Overdue\",\"status\":\"complete\",\"trackNumber\":8,\"zip\":false,\"catalogDurationMs\":166090,\"download\":{\"state\":\"complete\",\"exists\":true,\"filename\":\"C:\\\\Users\\\\Akerke\\\\Downloads\\\\VOLNA\\\\Треки\\\\08 · Metro Boomin, Travis Scott — Overdue.mp3\",\"bytes\":6708431}}\n```"
+      }
+    ]
+  },
+  "jsonrpc": "2.0",
+  "id": 73
+}

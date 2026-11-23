@@ -1,0 +1,66 @@
+{
+  "ui": {
+    "passed": 22,
+    "results": [
+      "Real Yandex font files loaded",
+      "ZIP caption has no size text",
+      "Playlist dialog paginates tracks instead of rendering all at once",
+      "Unavailable FLAC is disabled after API capability check",
+      "Track search filters by title",
+      "Escape dismisses native dialog and restores focus",
+      "Playlist submit creates a visible queue job",
+      "Eight selected transfer streams reach the queued job",
+      "Cancel and retry actions update durable job state",
+      "Queue displays aggregate speed, estimated time and received bytes",
+      "New downloads are disabled while another job runs",
+      "Circular download indicator displays actual progress",
+      "A single-song download does not animate the playlist button",
+      "Completion unlocks downloading",
+      "An already open modal locks when another surface starts a download",
+      "Light theme applies immediately",
+      "Advanced audio settings persist",
+      "Donation UI is absent",
+      "Token form has a working save action",
+      "Reduced motion disables running UI animations",
+      "375px layout has no horizontal overflow",
+      "Download failure explains the connection problem and recovery action"
+    ]
+  },
+  "opfs": {
+    "diskFile": true,
+    "bytes": 8389418,
+    "entries": 4,
+    "cleaned": true
+  },
+  "library": {
+    "passed": 5,
+    "checks": [
+      "Native browser directory handle and real IndexedDB",
+      "07 becomes 01 without changing file bytes",
+      "New song is 02 from actual folder count",
+      "Directory handle survives reload",
+      "Parallel calls serialize as 03 and 04"
+    ],
+    "initial": {
+      "nativeHandle": "FileSystemDirectoryHandle",
+      "permission": "granted"
+    },
+    "persisted": {
+      "status": {
+        "connected": true,
+        "name": "\u0420\u045e\u0421\u0402\u0420\u00b5\u0420\u0454\u0420\u0451",
+        "permission": "granted"
+      },
+      "numbers": [
+        3,
+        4
+      ]
+    }
+  },
+  "pageErrors": [],
+  "independentZipReader": {
+    "reader": "Python zipfile",
+    "entries": 4,
+    "crc": "passed"
+  }
+}

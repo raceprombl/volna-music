@@ -1,0 +1,31 @@
+{
+  "checks": [
+    {
+      "format": "MP3",
+      "status": 200,
+      "hasFile": true,
+      "codec": "mp3",
+      "transport": "raw",
+      "oauthUsed": false,
+      "mediaStatus": 206,
+      "mp3HeaderVerified": true
+    },
+    {
+      "format": "M4A",
+      "status": 200,
+      "hasFile": true,
+      "codec": "mp3",
+      "transport": "raw",
+      "oauthUsed": false
+    },
+    {
+      "format": "FLAC",
+      "status": 200,
+      "hasFile": true,
+      "codec": "mp3",
+      "transport": "raw",
+      "oauthUsed": false
+    }
+  ],
+  "note": "Only MP3 prefix read; no complete song saved."
+}

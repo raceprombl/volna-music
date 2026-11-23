@@ -1,0 +1,323 @@
+{
+  "roots": [
+    "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+    "C:\\Windows\\Temp"
+  ],
+  "fileMinimumAgeHours": 2,
+  "directoryMinimumAgeDays": 7,
+  "candidates": [
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\02860094-8287-4bd7-87e3-b6eec5b8fcf2.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\0ea08507-1696-4a30-a70b-0ce4d24115f4.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 2360308
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\12ef6d1e-8516-4e11-8ddc-3ed795cee3de.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\2098af54-261b-451c-982c-f7969379d80a.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 281195
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\209d94ef-7600-4b2d-8011-e09ae8b88934.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 55123
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\27890888-a77e-4016-afd3-1b2ae1b1ec1e.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\2a789075-e1d3-4845-82e6-abbef7f680ab.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 63312
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\33d70a30-0d67-40e4-a69c-cfa73d7b47f2.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 103589
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\3dd793ec-ba6a-4567-b1e9-c9e769d2550d.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\489cd9b6-ff1b-4b7b-892b-d72118f001cc.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\4aaadddd-65e9-4d61-84c7-e677c99b4eed.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 8675796
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\532a3001-4949-42db-9234-9a9265a687ca.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\53f2e120-28c4-4e18-b73d-13e2fb46ba47.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\5e88265e-255d-48af-8197-0159c56b4b92.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\60a8600b-a4aa-441f-abed-35b6062cb416.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\689784e2-db66-497b-a45b-b55ffb9f5c2e.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\83fb056c-23ca-4a47-a06a-80dd3418e236.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 2360308
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\8c069f9f-074f-431f-b854-59baa5a46ee6.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\975f6aa9-4562-455b-8ffb-d9bde564334c.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\b7cc0cee-9aa6-4c65-bfd0-ad7cc675739e.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\bd34b121-d72b-4f39-ab55-2a178d99b098.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\cae6402d-2c30-4716-a4a0-707a03c1fb87.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\cv_debug.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 4624
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\d670384e-ba03-48a8-8960-6b638d011df8.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 4776819
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\dak-setup.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261113-1716.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85658
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261113-1942.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85404
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261113-2031.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85654
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261113-2223.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85660
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261113-2238.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85396
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261113-2253.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85754
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\DESKTOP-ARK3LJ4-20261114-1151.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 85678
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\e26468c6-72c2-4466-9003-cba1054945bc.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\e2b3b1c9-29be-4a43-b2fb-036589094bf9.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\e84204ab-8a90-460c-a8de-c63cc1e6df15.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\e8e3dcce-c3f9-4944-b374-51c69f68d79b.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\f08f2ffa-14f5-4e59-a2e7-e7295dd07ead.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 5421061
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\fd2fc431-160a-44c0-83fe-fa649e1528c0.tmp",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 0
+    },
+    {
+      "path": "C:\\Users\\Akerke\\AppData\\Local\\Temp\\StructuredQuery.log",
+      "root": "C:\\Users\\Akerke\\AppData\\Local\\Temp",
+      "directory": false,
+      "bytes": 5895
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1658.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 88034
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1703.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 83308
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1703a.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 95532
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1741.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 216922
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1745.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 126382
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1927.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 293416
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-1932.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 76024
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-2008.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 76318
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261113-2312.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 76044
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261114-1135.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 220908
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261114-1141.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 86650
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261114-1143.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 76040
+    },
+    {
+      "path": "C:\\Windows\\Temp\\DESKTOP-ARK3LJ4-20261114-1143a.log",
+      "root": "C:\\Windows\\Temp",
+      "directory": false,
+      "bytes": 72046
+    }
+  ],
+  "candidateBytes": 26294858
+}

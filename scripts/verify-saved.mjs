@@ -1,0 +1,12 @@
+import fs from "node:fs/promises";
+import ts from "typescript";
+import path from "node:path";
+const source = await fs.readFile("src/audio-duration.ts", "utf8");
+const code = ts.transpileModule(source, {compilerOptions:{target:ts.ScriptTarget.ES2022,module:ts.ModuleKind.ESNext}}).outputText;
+const {mp3Duration,assertDuration} = await import("data:text/javascript;base64,"+Buffer.from(code).toString("base64"));
+const file = process.argv[2], expected = Number(process.argv[3]);
+const bytes = new Uint8Array(await fs.readFile(file));
+const duration = mp3Duration(bytes);
+if (!duration) throw Error("MP3 frame duration is unavailable");
+assertDuration(duration,expected);
+console.log(JSON.stringify({file:path.basename(file),bytes:bytes.length,actualSeconds:Number(duration.toFixed(3)),catalogSeconds:expected/1000,fullLengthVerified:true},null,2));

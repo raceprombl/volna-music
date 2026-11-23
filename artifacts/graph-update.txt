@@ -1,0 +1,47 @@
+Corpus: 31 files; ~25492 words
+  code: 31
+  AST cache: 0/31 files served from cache (0%); 31 to extract
+[graphify] MultiDiGraph edge-collapse diagnostic
+input: <in-memory>
+input_stage: provided JSON (normal graph.json is post-build)
+effective_directed: <direct-call>
+nodes: 293
+unverified_code_nodes: 0
+raw_edges: 916
+valid_candidate_edges: 910
+missing_endpoint_edges: 0
+dangling_endpoint_edges: 1
+external_reference_edges: 5
+self_loop_edges: 4
+exact_duplicate_edges: 0
+directed_unique_endpoint_pairs: 888
+directed_same_endpoint_collapsed_edges: 22
+undirected_unique_endpoint_pairs: 887
+undirected_same_endpoint_collapsed_edges: 23
+same_endpoint_group_count: 21
+relation_variant_groups: 20
+source_file_variant_groups: 0
+source_location_variant_groups: 2
+context_variant_groups: 1
+post_build_graph_type: Graph
+post_build_edges: 893
+producer_suppression_sites: 12
+producer_suppression_examples:
+  - L1901 seen_ids arity=unknown
+  - L2596 seen_ids arity=unknown
+  - L2598 seen_doc_refs arity=unknown
+  - L3265 seen_ids arity=unknown
+  - L3412 seen_ids arity=unknown
+  - L5144 seen_keys arity=unknown
+  - L5330 seen_keys arity=unknown
+  - L9828 seen_ids arity=unknown
+examples:
+  - src_api_fetch -> src_http_error edges=3 relations=['imports_from', 're_exports'] locations=['L3', 'L4'] contexts=['export', 'import', 're-export']
+  - src_api_fetch -> src_http_error_httperror edges=2 relations=['imports', 're_exports'] locations=['L3', 'L4'] contexts=['import', 're-export']
+  - src_background -> src_types_activejobs edges=2 relations=['imports', 'indirect_call'] locations=['L18', 'L668'] contexts=['argument', 'import']
+  - src_background -> src_background_enginelock edges=2 relations=['calls', 'contains'] locations=['L36', 'L697'] contexts=['', 'call']
+  - src_background -> src_background_ensureengine edges=2 relations=['calls', 'contains'] locations=['L46', 'L702'] contexts=['', 'call']
+note: normal graph.json is post-build; raw producer loss must be measured earlier.
+Graph: 299 nodes, 893 edges, 9 communities
+Extraction token cost: 0 input, 0 output (AST only)
+{"labels": {"0": "Download engine", "1": "Yandex API", "2": "Popup interface", "3": "Chrome background", "4": "Track library", "5": "media-client.ts", "6": "Page integration", "7": "Streaming ZIP64", "8": "demuxFlacMp4"}, "gods": [{"id": "src_shared_rpc", "label": "rpc()", "degree": 31}, {"id": "src_offscreen_workitem", "label": "workItem()", "degree": 30}, {"id": "src_background_handle", "label": "handle()", "degree": 26}], "surprises": [{"source": "onStorage()", "target": "activeJobs()", "source_files": ["src/content.ts", "src/types.ts"], "confidence": "INFERRED", "relation": "indirect_call", "why": "inferred connection - not explicitly stated in source; bridges separate communities"}, {"source": "pump()", "target": "activeJobs()", "source_files": ["src/offscreen.ts", "src/types.ts"], "confidence": "INFERRED", "relation": "indirect_call", "why": "inferred connection - not explicitly stated in source; bridges separate communities"}], "questions": [{"type": "bridge_node", "question": "Why does `rpc()` connect `Popup interface` to `Download engine`, `Yandex API`, `Chrome background`, `Track library`, `media-client.ts`, `Page integration`?", "why": "High betweenness centrality (0.084) - this node is a cross-community bridge."}, {"type": "verify_inferred", "question": "Are the 5 inferred relationships involving `workItem()` (e.g. with `.finish()` and `.record()`) actually correct?", "why": "`workItem()` has 5 INFERRED edges - model-reasoned connections that need verification."}]}

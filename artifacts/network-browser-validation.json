@@ -1,0 +1,14 @@
+{
+  "resume": true,
+  "mirrors": true,
+  "multipart": true,
+  "batchFiles": 10,
+  "allChecksums": true,
+  "mirrorMs": 356,
+  "loopbackMiB": 80,
+  "loopbackMbps": 2584,
+  "disclaimer": "Controlled loopback fixture; not a Yandex CDN benchmark or playback TTFA measurement",
+  "resumeRange": "bytes=524288-",
+  "peakNativeRequests": 6,
+  "requests": 19
+}
